@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n, base) {
-  return n, base;
+  return n;
 }
 
 function perserveDecimal(n, base) {
