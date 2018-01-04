@@ -25,7 +25,7 @@ function dec(n) {
 function makeInt(n) {
   return n;
 }
-console.log(parseInt(n, b))
+console.log(parseInt(n, 0))
 function perserveDecimal(n, base) {
   return (n, base);
 }
